@@ -1,2 +1,2 @@
 # biograph.dx.am
- A biodate of Prithwiraj Samanta
+ A Biodata of Prithwiraj Samanta
